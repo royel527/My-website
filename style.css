@@ -1,0 +1,44 @@
+
+.nav{
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 5px solid tomato;
+    background-color: rgb(201, 211, 156);
+    position: sticky;
+}
+.nav-list{
+    border: none;
+    display: flex;
+    justify-content: space-between;
+}
+.ankor{
+    margin-right:60px;
+    text-decoration: none;
+    font-size: 1.5rem;
+}
+li{
+    list-style: none;
+}
+.aljazeera{
+    margin-left: 40px;
+}
+.royel{
+    display: flex;
+    gap: 20px;
+    padding-left: 30px;
+}
+.para{
+    font-size: 1.5rem;
+    text-align: justify;
+}
+.itsme{
+    margin-top: 110px;
+    
+}
+h1{
+    font-size: 2.5rem;
+}
+.img{
+    width: 600px;
+    height: 700px;
+}
