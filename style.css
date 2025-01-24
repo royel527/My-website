@@ -22,18 +22,21 @@ li{
 .aljazeera{
     margin-left: 40px;
 }
-.royel{
+.royel,
+.picnic,
+.hsc-2023{
     display: flex;
-    gap: 50px;
+    gap: 30px;
     padding-left: 30px;
 }
 .para{
-    font-size: 2rem;
+    font-size: 1.5rem;
     text-align: justify;
 }
 .itsme,
 .img-saif,
-.hsc-02{
+.hsc-02,
+.picnic-img{
     margin-top: 110px;
     
 }
@@ -42,18 +45,17 @@ h1{
     text-align: center;
 }
 .img{
-    width: 800px;
+    width: 600px;
     height: 700px;
 }
 .saif
 {
     display: flex;
     flex-direction: row-reverse;
-    gap: 50px;
+    gap: 30px;
     padding: 30px;
 }
-.hsc-2023{
-    display: flex;
-    gap: 50px;
-    padding: 30px;
+.imges{
+    width: 700px;
+    height: 500px;
 }
